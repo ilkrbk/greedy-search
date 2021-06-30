@@ -1,0 +1,6 @@
+/Users/ilkrbk/Documents/KPI-study/1_class/TA/LR_answer/greedy-search/greedy-search/bin/Debug/greedy_search.exe
+/Users/ilkrbk/Documents/KPI-study/1_class/TA/LR_answer/greedy-search/greedy-search/bin/Debug/greedy_search.pdb
+/Users/ilkrbk/Documents/KPI-study/1_class/TA/LR_answer/greedy-search/greedy-search/obj/Debug/greedy-search.csprojAssemblyReference.cache
+/Users/ilkrbk/Documents/KPI-study/1_class/TA/LR_answer/greedy-search/greedy-search/obj/Debug/greedy-search.csproj.CoreCompileInputs.cache
+/Users/ilkrbk/Documents/KPI-study/1_class/TA/LR_answer/greedy-search/greedy-search/obj/Debug/greedy_search.exe
+/Users/ilkrbk/Documents/KPI-study/1_class/TA/LR_answer/greedy-search/greedy-search/obj/Debug/greedy_search.pdb
